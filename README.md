@@ -1,6 +1,8 @@
 # AppSync Terraform Go example
 
-An example [Terraform](https://www.terraform.io/) configuration to launch an [AWS AppSync](https://aws.amazon.com/appsync/) service with a [Go](https://golang.org/Ø) Lambda data source.
+An example [Terraform](https://www.terraform.io/) configuration to launch an [AWS AppSync](https://aws.amazon.com/appsync/) service with a [Go](https://golang.org/) Lambda data source.
+
+This repo is the complete code example from a blog post I wrote called [Easy AWS AppSync with Terraform](https://elopmental.dev/easy-appsync-with-terraform/).
 
 > Note: the Makefile may only run on macOS/linux, if you are on Windows you may
 > need to build the Go lambda function another way.
